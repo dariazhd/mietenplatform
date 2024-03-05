@@ -2,12 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package de.hawhamburg.inf.in_praktika_6.View;
+package de.hawhamburg.inf.mietenplatform.View;
 
-import de.hawhamburg.inf.in_praktika_6.Controller.BenutzerController;
-import de.hawhamburg.inf.in_praktika_6.Model.Benutzer;
-import java.util.List;
-import javafx.application.Application;
+import de.hawhamburg.inf.mietenplatform.Controller.BenutzerController;
+import de.hawhamburg.inf.mietenplatform.Model.Benutzer;
+
 import static javafx.application.Application.launch;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;

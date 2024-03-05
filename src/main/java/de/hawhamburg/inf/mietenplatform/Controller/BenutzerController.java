@@ -2,15 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package de.hawhamburg.inf.in_praktika_6.Controller;
+package de.hawhamburg.inf.mietenplatform.Controller;
 
-import de.hawhamburg.inf.in_praktika_6.Model.Benutzer;
+import de.hawhamburg.inf.mietenplatform.Model.Benutzer;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 /**

@@ -3,15 +3,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package de.hawhamburg.inf.in_praktika_6;
+package de.hawhamburg.inf.mietenplatform;
 
-import de.hawhamburg.inf.in_praktika_6.View.MainView;
+import de.hawhamburg.inf.mietenplatform.View.MainView;
 
 /**
  *
  * @author diiia
  */
-public class In_praktika_6  {   
+public class Application {
     public static void main(String[] args) {
         MainView.launchView();
     }
